@@ -133,4 +133,8 @@ p {
   .email-link {
     font-size: 20px;
   }
+  a.navi-links {
+    font-size: 14px;
+    padding: 15px;
+  }
 }
